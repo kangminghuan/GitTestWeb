@@ -11,8 +11,14 @@ namespace GitTestWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            int a, b;
-            
+            SSO.AspNet.VerificationClient verfi = new SSO.AspNet.VerificationClient("http://localhost:4177/signout.aspx");
+
+
+            if (verfi.IsLogin == false)
+            {
+                verfi.Login();
+                return;
+            }
         }
     }
 }

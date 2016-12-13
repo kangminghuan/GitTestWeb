@@ -1,0 +1,9 @@
+D:\网站\GitTestWeb\GitTestWeb\bin\GitTestWeb.dll
+D:\网站\GitTestWeb\GitTestWeb\bin\GitTestWeb.pdb
+D:\网站\GitTestWeb\GitTestWeb\bin\SSOCfg.dll
+D:\网站\GitTestWeb\GitTestWeb\bin\SSOCfg.pdb
+D:\网站\GitTestWeb\GitTestWeb\obj\Debug\GitTestWeb.csprojResolveAssemblyReference.cache
+D:\网站\GitTestWeb\GitTestWeb\obj\Debug\GitTestWeb.dll
+D:\网站\GitTestWeb\GitTestWeb\obj\Debug\GitTestWeb.pdb
+D:\网站\GitTestWeb\GitTestWeb\bin\Newtonsoft.Json.dll
+D:\网站\GitTestWeb\GitTestWeb\bin\Newtonsoft.Json.xml
